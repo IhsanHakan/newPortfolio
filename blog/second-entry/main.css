@@ -1,0 +1,54 @@
+body {
+  background-color: rgb(61, 194, 236);
+  color: rgb(64, 46, 122);
+  padding: 0%;
+  margin: 0%;
+}
+h2 {
+  text-align: center;
+}
+p {
+  padding-left: 10px;
+}
+
+#date {
+  padding-left: 20px;
+}
+
+.title {
+  background-color: brown;
+  color: #ffffff;
+  font-size: 50px;
+}
+
+h1 {
+  font-size: 30px;
+  text-align: center;
+}
+
+.menu-blog {
+  list-style-type: none;
+  background-color: #a67b5b;
+  padding: 0%;
+  margin: 0%;
+  overflow: hidden;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.menu-blog a {
+  color: white;
+  text-decoration: none;
+  padding: 15px;
+  display: block;
+  text-align: center;
+}
+
+.menu-blog a:hover {
+  background-color: rgb(86, 77, 155);
+}
+
+.menu-blog li {
+  margin: 0 10px;
+}
